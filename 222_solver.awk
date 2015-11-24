@@ -315,6 +315,7 @@ function solve(min, max, cube)
     for(iDepth = min; iDepth <= max; iDepth++)
     {
         printf("\rDepth %d...", iDepth);
+        system("");
         clearSolution();
         #resetCube(CubeState);
         #scrambleCube();
