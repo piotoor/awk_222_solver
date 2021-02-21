@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [How to run](#run)
+* [How to run](#how-to-run)
 
 ## General info
 This project is a simple 2x2x2 Rubik's cube solver written in awk.
